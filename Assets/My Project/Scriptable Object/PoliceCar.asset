@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7daad11c24caa84ab185cff1521c8a4, type: 3}
+  m_Name: PoliceCar
+  m_EditorClassIdentifier: 
+  Name: Police Car
+  Model: Police Stop
+  TopSpeed: 230
+  BHP: 122312
+  perfType: 2
+  handing: 1
+  car: {fileID: 134962, guid: 1bc3a967e1e743b41b30f111c58ba985, type: 3}
